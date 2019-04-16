@@ -1,2 +1,3 @@
 # znordgren.github.io
-This repo is so I can easily host small webpages for demos and whatnot
+
+<object data="resume.pdf" width="1000" height="1000" type='application/pdf'/>
